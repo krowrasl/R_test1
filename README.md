@@ -9,4 +9,4 @@
 * OS: UBUNTU 16.04 LTS x32
 
 
-![Main window view](/screenshots/screen1.png)
+![Main window view](/screenshots/Screen1.png)
